@@ -1,6 +1,6 @@
 {
-  "UseCheckpoints": true,
+  "UseCheckpoints": false,
   "UseBoth": false,
-  "UseApplovinOnly": false,
-  "UseUnityOnly": true
+  "UseApplovinOnly": true,
+  "UseUnityOnly": false
 }
