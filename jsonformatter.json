@@ -1,5 +1,5 @@
 {
-  "UseCheckpoints": false,
+  "UseCheckpoints": true,
   "UseBoth": false,
   "UseApplovinOnly": true,
   "UseUnityOnly": false
